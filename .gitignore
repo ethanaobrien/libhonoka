@@ -1,2 +1,4 @@
 build
-honokamiku_config.h
+emscripten-out/
+*.js
+*.wasm
